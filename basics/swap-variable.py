@@ -6,4 +6,3 @@ temp = x
 x = y
 y = temp
 print("Values of variables after swapping: x =", x, "y =", y)
-#end of program
